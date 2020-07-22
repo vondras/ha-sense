@@ -3,8 +3,8 @@
         "step": {
             "user": {
                 "data": {
-                    "email": "Email",
-                    "password": "Palavra-passe"
+                    "email": "E-mail",
+                    "password": "Heslo"
                 }
             }
         }
